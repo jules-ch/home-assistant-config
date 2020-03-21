@@ -1,0 +1,11 @@
+*.db
+*.log
+.cloud
+.storage
+deps
+tts
+known_devices.yaml
+ip_bans.yaml
+secrets
+secrets.yaml
+mqtt/config/passwd_file
